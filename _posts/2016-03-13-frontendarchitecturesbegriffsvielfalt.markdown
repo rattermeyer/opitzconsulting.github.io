@@ -20,4 +20,4 @@ Wir betrachten in diesem Post die folgenden Architekturen
 
 * [Backends-for-Frontends](http://samnewman.io/patterns/architectural/bff/)
 * [API Gateways](http://microservices.io/patterns/apigateway.html)
-* [Delivery Layer]()
+* [Delivery Layer](http://blogs.forrester.com/ted_schadler/13-11-20-mobile_needs_a_four_tier_engagement_platform)
